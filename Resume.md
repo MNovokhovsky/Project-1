@@ -37,7 +37,6 @@
 	  <li> IT ethics </li>
 	  <li> humanities coursework focusing on the social, political and environmnetal implications of IT </li>
 	</ul>
-					
     <h3> Art Center College of Design (Pasadena, CA) </h3>
       <p> 2015 Coursework in Interaction Design </p>
       <p> Areas of deepest interest and study include:</p>
