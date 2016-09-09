@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Curriculum Vitae</title>
+  <title>Resume</title>
   <meta charset="utf-8" />
 </head>
 <body>
@@ -10,7 +10,7 @@
       <ul>
         <li><a href="synopsis.html">Synopsis</a></li>
         <li><a href="portfolio.html">Portfolio</a></li>
-        <li><a href="cv.html">Curriculum Vitae</a></li>
+        <li><a href="resume.html">Resume</a></li>
       </ul>
     </nav>
   </header>
